@@ -11,9 +11,10 @@ Performed exploratory data analysis (EDA) to uncover insights about customer dem
 Segmented customers based on age group, marital status, and occupation to design targeted marketing strategies.
 Identified geographic zones contributing to the highest sales and optimized supply chain management strategies.
 Provided actionable recommendations to improve customer experience, such as bundling popular products and offering targeted discounts.
-Key Tools & Technologies: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Excel, Tableau/Power BI.
-Outcome: Improved sales forecasting by XX% (replace with your result) and provided insights to enhance customer satisfaction.
-Conclusion from the Data Analysis
+Key Tools & Technologies: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Excel,Power BI.
+Outcome: Improved sales forecasting provided insights to enhance customer satisfaction.
+Conclusion from the Data Analysis Married women age group 26-35 yrs from UP, Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category
+
 Objective: To analyze Diwali sales data to understand customer behavior and identify strategies to improve sales and customer experience.
 
 Key Insights:
@@ -28,7 +29,8 @@ Product categories like [popular product categories] saw peak demand.
 Customers preferred purchasing [specific product types or combinations].
 Spending Patterns:
 Customers from [specific occupations] showed higher average spending.
-Impact:
+# conclusion:-
+Married women age group 26-35 yrs from UP, Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category
 
 Customer Experience: Recommendations for personalized promotions and targeted ads based on customer demographics and purchasing trends.
 Sales Strategy: Optimized inventory and marketing focus on high-demand zones and categories, leading to increased sales efficiency and customer satisfaction.
