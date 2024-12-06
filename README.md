@@ -1,7 +1,5 @@
 # Python_Diwali_Sales_Analysis
-Python project for beginners- Analyze Diwali sales data to improve customer experience and sales
-
-Resume Entry: Data Analytics Project
+Analyze Diwali sales data to improve customer experience and sales data analytics project.
 Project Title: Enhancing Customer Experience and Boosting Sales through Diwali Sales Data Analysis
 
 Objective: Analyzed Diwali sales data to identify customer trends, improve customer experience, and enhance sales strategies.
